@@ -1,0 +1,1 @@
+/home/client/Desktop/TPRoss/devel/.private/maker_visualizer/lib/pkgconfig/maker_visualizer.pc

@@ -1,0 +1,1 @@
+/home/client/Desktop/TPRoss/devel/.private/catkin_tools_prebuild/local_setup.bash

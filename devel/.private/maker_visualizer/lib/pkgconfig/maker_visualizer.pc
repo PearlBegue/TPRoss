@@ -1,0 +1,8 @@
+prefix=/home/client/Desktop/TPRoss/devel/.private/maker_visualizer
+
+Name: maker_visualizer
+Description: Description of maker_visualizer
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

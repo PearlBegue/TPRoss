@@ -1,0 +1,6 @@
+devel_space: /home/client/Desktop/TPRoss/devel
+install: false
+install_space: /home/client/Desktop/TPRoss/install
+profile: default
+source_space: /home/client/Desktop/TPRoss/src
+workspace: /home/client/Desktop/TPRoss

@@ -1,0 +1,12 @@
+Symlinking /home/client/Desktop/TPRoss/devel/./setup.zsh
+Symlinking /home/client/Desktop/TPRoss/devel/./local_setup.bash
+Symlinking /home/client/Desktop/TPRoss/devel/./setup.bash
+Symlinking /home/client/Desktop/TPRoss/devel/./local_setup.zsh
+Symlinking /home/client/Desktop/TPRoss/devel/./setup.sh
+Symlinking /home/client/Desktop/TPRoss/devel/./cmake.lock
+Symlinking /home/client/Desktop/TPRoss/devel/./env.sh
+Symlinking /home/client/Desktop/TPRoss/devel/./local_setup.sh
+Symlinking /home/client/Desktop/TPRoss/devel/./_setup_util.py
+Symlinking /home/client/Desktop/TPRoss/devel/share/catkin_tools_prebuild/cmake/catkin_tools_prebuildConfig-version.cmake
+Symlinking /home/client/Desktop/TPRoss/devel/share/catkin_tools_prebuild/cmake/catkin_tools_prebuildConfig.cmake
+Symlinking /home/client/Desktop/TPRoss/devel/lib/pkgconfig/catkin_tools_prebuild.pc
